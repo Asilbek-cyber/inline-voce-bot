@@ -1,2 +1,2 @@
-"# Search-images-bot" 
-"# ovoz-voice-bot" 
+bu bot voice bot
+
